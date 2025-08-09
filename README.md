@@ -31,7 +31,7 @@ Além disso, a API deve:
   - Spring Data JPA (acesso ao banco de dados)
   - Spring Security (autenticação/autorização)
 - **Hibernate** (ORM)
-- **Banco de Dados**: MySQL ou PostgreSQL
+- **Banco de Dados**: MySQL
 - **Maven** (gerenciamento de dependências)
 - **Lombok** (redução de boilerplate code)
 - **Bean Validation** (validação de dados)
